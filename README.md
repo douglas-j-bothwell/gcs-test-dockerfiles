@@ -1,1 +1,0 @@
-# gcs-test-dockerfiles
